@@ -1,16 +1,16 @@
-## Hi there 👋
+ # Olá , eu sou o Henrry Negreiros! 
 
-<!--
-**henrry-negreiros/henrry-negreiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante de ADS & Engenharia de Software focado em se tornar um excelente **Solucionador de Problemas** através da tecnologia. 
 
-Here are some ideas to get you started:
+ ### Minhas ferramentas Atuais:
+  *Desenvolvimento:* HTML5, CSS3, JavaScript e focado em dominar React.js.
+*Design & UX:* Prototipagem de soluções no Figma.
+*Processos:* Git, GitHub e mentalidade ágil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 O que estou construindo:
+ Soluções front-end que unem design intuitivo e código limpo.
+ Uma base sólida em Engenharia de Software para resolver problemas complexos no futuro.
+ Fluência em inglês técnico 
+
+--
+📫 *Vamos trocar uma ideia:* [LinkedIn](https://linkedin.com)
