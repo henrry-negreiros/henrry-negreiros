@@ -1,4 +1,4 @@
-# Olá, eu sou o Henrry Negreiros! 👋
+# Olá, eu sou o Henrry Negreiros! 
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) & Engenharia de Software. Sou focado em aprender as bases fundamentais da programação para me tornar um excelente solucionador de problemas através da tecnologia.
 
