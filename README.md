@@ -9,4 +9,4 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) & Engenharia de Softwa
 ---
 
 ### O que estou a construir agora:
-* **[MaestroVisual](https://github.com/henrry-negreiros/MaestroVisual):** Um software em Python que utiliza Visão Computacional (MediaPipe e OpenCV) para controlar o volume do Windows através de gestos com as mãos. O próximo passo do projeto é transformá-lo numa bateria virtual completa!
+* **[MaestroVisual](https://github.com/henrry-negreiros/MaestroVisual):** Um software em Python que utiliza Visão Computacional (MediaPipe e OpenCV) para controle do sistema por gestos. Conta com modo de controle de áudio/mídia do Windows e modo de apresentação para controle de slides (PowerPoint) sem contato físico. 
