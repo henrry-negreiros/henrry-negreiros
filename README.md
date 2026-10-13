@@ -1,4 +1,4 @@
-# Hi there, I'm Henrry Negreiros 👋
+# Hi there, I'm Henrry Negreiros!
 
 > **Software Engineering & Systems Analysis Student**  
 > Focused on Python, Computer Vision, Software Automation, and Web Development.
