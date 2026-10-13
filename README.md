@@ -9,4 +9,4 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) & Engenharia de Softwa
 ---
 
 ### O que estou a construir agora:
-* **[MaestroVisual](https://github.com/henrry-negreiros/MaestroVisual):** Um software em Python que utiliza Visão Computacional (MediaPipe e OpenCV) para controle do sistema por gestos. Conta com modo de controle de áudio/mídia do Windows e modo de apresentação para controle de slides (PowerPoint) sem contato físico. 
+* **[MaestroVirtual](https://github.com/henrry-negreiros/MaestroVisual):** Um software em Python que utiliza Visão Computacional (MediaPipe e OpenCV) para controle do sistema por gestos. Conta com modo de controle de áudio/mídia do Windows e modo de apresentação para controle de slides (PowerPoint) sem contato físico. 
