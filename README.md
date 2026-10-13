@@ -1,12 +1,18 @@
-# Olá, eu sou o Henrry Negreiros! 
+# Hi there, I'm Henrry Negreiros 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) & Engenharia de Software. Sou focado em aprender as bases fundamentais da programação para me tornar um excelente solucionador de problemas através da tecnologia.
-
-###  Minhas Ferramentas & Foco Atual:
-* **Linguagens & Tecnologias em Estudo:** Python (Lógica, Visão Computacional) e versionamento de código com Git & GitHub.
-* **Foco no momento:** Dominar algoritmos de IA, manipulação de câmeras/vídeo e controle de hardware (como áudio do sistema) via código.
+> **Software Engineering & Systems Analysis Student**  
+> Focused on Python, Computer Vision, Software Automation, and Web Development.
 
 ---
 
-### O que estou a construir agora:
-* **[MaestroVirtual](https://github.com/henrry-negreiros/MaestroVisual):** Um software em Python que utiliza Visão Computacional (MediaPipe e OpenCV) para controle do sistema por gestos. Conta com modo de controle de áudio/mídia do Windows e modo de apresentação para controle de slides (PowerPoint) sem contato físico. 
+### 💻 About Me
+
+```json
+{
+  "location": "Piauí, Brazil",
+  "role": "Software Developer & Student",
+  "languages": ["Python", "JavaScript", "HTML5", "CSS3", "SQL"],
+  "frameworks_tools": ["OpenCV", "MediaPipe", "PyAutoGUI", "Git", "GitHub", "VS Code"],
+  "current_focus": "Building AI-powered computer vision applications and desktop automation."
+}
+* **[MaestroVirtual](https://github.com/henrry-negreiros/MaestroVisual) 
