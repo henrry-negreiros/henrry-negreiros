@@ -41,5 +41,4 @@
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrry-negreiros)
-* **[MaestroVirtual](https://github.com/henrry-negreiros/MaestroVisual) 
+[![LinkedIn] https://www.linkedin.com/in/henrry-dev/
